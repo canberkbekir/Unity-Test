@@ -333,14 +333,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: "C:\\Users\\boomc\\OneDrive\\Masa\xFCst\xFC\\Codes\\Unity\\gamedev"
+  m_LastProjectPath: C:\Users\boomc\gamedev-test
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 30590000
-    m_LastClickedID: 22832
-    m_ExpandedIDs: 000000003059000000ca9a3bffffff7f
+    m_SelectedIDs: 2e590000
+    m_LastClickedID: 22830
+    m_ExpandedIDs: 000000002e59000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -510,7 +510,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 16fbffff
+      m_ExpandedIDs: 14fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
